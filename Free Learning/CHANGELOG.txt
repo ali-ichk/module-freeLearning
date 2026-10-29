@@ -1,5 +1,9 @@
 CHANGELOG
 =========
+v5.29.21
+-------
+Fixed process scripts so a direct link cannot run them
+
 v5.29.20
 -------
 Restricted Import/Export access on Big Data Schools
